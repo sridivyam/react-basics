@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  backgroudColor: white;
+      color: green;
+      font: "inherit";
+      border: "1x solid blue";
+      padding: "8px";
+      cursor: "pointer";
+}
+
+.red{
+  color: red;
+}
+.bold {
+  font-weight: bold;
+}
